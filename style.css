@@ -1,0 +1,26 @@
+body{
+    background-color: #fefae0;
+}
+.card{
+    width:20%;
+    background-color: #ccd5ae;
+    color: white;
+    height: 200px;
+     /* width:fit-content */
+}
+
+.kfh{
+    background-color: green;
+}
+
+.kpi{
+    background-color: crimson;
+}
+.container{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-color: black;
+    height: 100vh;
+
+}
